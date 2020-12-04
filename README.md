@@ -4,3 +4,5 @@ This is the repository for our code, [documentation](https://docs.google.com/doc
 Demo Video: https://www.youtube.com/watch?v=4hkTra6edbA&feature=youtu.be 
 
 Team Video: https://www.youtube.com/watch?v=I4QjTTnT5_A&feature=youtu.be 
+
+To make use of this project download the StudentAdvising.zip file (which contains a maven project) and import it into your IDE.
